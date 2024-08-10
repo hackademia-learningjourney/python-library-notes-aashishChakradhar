@@ -1,0 +1,24 @@
+Pandas
+	Pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, build on top of the Python programming language. Pandas is a Python library used for working with data sets. It allows to analyze big data and make conclusion base on statistical theories. Pandas can clean messy data sets and make them readable and relevant.
+
+NumPy
+	NumPy stands for Numerical Python, is an open source Python library that provides support for large, multi-dimensional arrays and matrices. It has collection of high-level mathematical functions to operate on arrays. NumPy aims to provide an array object that is up to 50X faster than traditional Python lists. NumPy arrays are stored at one continuous place in memory unlike lists, so processes can access and manipulate them very efficiently. It is optimized to work with least CPU architectures. 
+
+TensorFlow
+	TensorFlow is an end-to-end open source platform for machine learning. It can be used across range of tasks but has a particular focus on training and inference of deep neural networks. It can be used in wide variety of programming language including Python, JavaScripts, C++ and Java facilitating its use in range of applications in many sectors.Its flexible architecture allows for the easy deployment of computation across a variety of platforms. 
+	It was developed by the Google Brain team for Google's internal use in research and production.
+
+Keras
+	Keras is an open-source high-level Neural Network library, which is written in Python. It is capable enough to run on Theano, TensorFlow, or CNTK. It was developed by one of the Google engineers, Francois Chollet. It is made user-friendly, extensible and modular for facilitating faster experimentation with deep neural networks. It not only supports Convolutional Networks and Recurrent Networks individually but also their combination. It is easy to understand and incorporate the faster development of network models. It supports Data parallelism.
+
+PyTorch
+	PyTorch is an open source machine learning framework based on Python programming language and Torch library. Torch is an open source ML library used for creating deep neural networks. PyTorch supports over 200 different mathematical operations. It is mainly used for data scientists research and artificial intelligence applications.PyTorch was initially an internship project for Adam Paszke.
+	Important properties of PyTorch are:
+	- It is based on Python code structure which is easy to learn and simple to code;
+	- It supports CPU,GPU and parallel processing and distributed training;
+	- It is supported by major cloud platforms;
+	- It supports dynamic computational graphs, enabling network behavior to be changed at runtime;
+	
+Sklearn
+	Scikit-learn also known as Sklearn is a free open source machine learning library for Python Programming language. It features various classification, regression and clustering algorithms including support-vector machines, random forests, gradient boosting, k-means and DBSCAN. This library is largely written in python and is built upon NumPy, SciPy and Matplotlib. Rather than focusing on loading, manipulating and summarizing data, Scikit-learn library is focused on modeling data.
+
